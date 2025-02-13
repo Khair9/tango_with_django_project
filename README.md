@@ -3,6 +3,7 @@ the web dev project tango with jango
 
 
 ### superuser:
-hanifmusaheb
-hanifmusaheb@gmail.com
+**username**: hanifmusaheb
+
+**email**: hanifmusaheb@gmail.com
 
